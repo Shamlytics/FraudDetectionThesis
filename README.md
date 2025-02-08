@@ -40,6 +40,10 @@ Run Jupyter Notebook:
 jupyter notebook
 ```
 
+## 🔬 Jupyter Notebook
+- **[Fraud Detection Notebook](Thesis%20Codes.ipynb)** – Includes data preprocessing, feature engineering, and model training.
+
+
 ## 📚 Citation
 If you use or reference this work, please cite:
 ```
